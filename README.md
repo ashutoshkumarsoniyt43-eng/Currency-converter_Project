@@ -26,6 +26,8 @@ more..
 * I had followed structured development process like 
 aiming , planning, coding, testing, documenting.
 
+The clear,step-by-step instructions on how to set up and run the project — covering environment setup, dependency installation, configuration, and execution are mentioned in readme file uploaded on vityarthi.
+
 *This project passed testing 
 by showing perfect output as expected .
 
